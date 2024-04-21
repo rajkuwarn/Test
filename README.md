@@ -1,1 +1,1 @@
-this is for generating super hero names
+This is for generating super hero names
